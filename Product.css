@@ -1,0 +1,18 @@
+.ProductPage
+{
+    min-height: 100vh;
+}
+.halfDiv
+{
+    width: 50%;
+}
+.productImagesDiv
+{
+    height: 100vh;
+    background-color: black;
+}
+.productInfoDiv
+{
+    height: 100vh;
+    /* background: red; */
+}

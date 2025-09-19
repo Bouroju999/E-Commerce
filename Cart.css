@@ -1,0 +1,13 @@
+.listOfProducts
+{
+    min-height: 100vh;
+    /* background: black; */
+}
+.productInCart
+{
+    background: white;
+    display: flex;
+    width: 80%;
+    border-radius: 15px;
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.5);
+}
